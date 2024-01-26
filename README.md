@@ -46,7 +46,7 @@ Install the required dependencies using pip:
 ```
 pip install ultralytics
 ```
-* Download Model  
+# Download Model  
 [Download model.pt](https://drive.google.com/file/d/1yFOyaloi4HZ1Z287kzkpqTQ5bMZ52cgs/view?usp=sharing)
 # Clone the repository:
 
